@@ -31,7 +31,6 @@ $ blt
 
 [MIT][mit] © [Dennis Evert][author] et [al][contributors]
 
-
 [mit]:            https://opensource.org/licenses/MIT
 [author]:         https://github.com/devert
 [contributors]:   https://github.com/devert/plugin-blt/graphs/contributors
